@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React
 - ✍🏻 Coding & Nature & free diving🏊🏻‍♀️
 
-___
+<br />
 
 <h2>🔧 Tech Stack </h2>
 
@@ -19,14 +19,14 @@ ___
 - 🔧 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
----
+<br />
 
 
 ```diff
 - my life before js😞
 + my life after js😍 
 ```
-___
+<br />
 
 <h2>✨ &nbsp; Github Stats</h2>
 
