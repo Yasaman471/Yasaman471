@@ -40,7 +40,7 @@ ___
     <img align="left" width="40px" src="icon/icons8-telegram-96.png" />
 </a>
 <a href="https://Yasaman471">
-    <img align="left" width="40px" src="icon/icons8-gmail-100.png" />
+    <img align="left" width="40px" src="https://github.com/Yasaman471/Yasaman471/blob/main/icons8-gmail-100.png?raw=true" />
 </a>
 <a href="https://www.linkedin.com/in/yasaman-abedi-459763243">
     <img align="left" width="40px" src="icon/icons8-linkedin-96.png" />
