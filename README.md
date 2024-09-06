@@ -30,7 +30,7 @@
 
 <h2>✨ &nbsp; Github Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasaman471&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasaman471&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasaman471&show_icons=true&theme=radicalo)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasaman471&layout=compact)
 
 
 
