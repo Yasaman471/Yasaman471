@@ -33,7 +33,7 @@ I'm Yasaman Abedi Zemeydani
 
 ### 📞 Connect With Me
 
-- 💼 **LinkedIn:**in/yasaman-abedi-459763243
+- 💼 **LinkedIn:**[in/yasaman-abedi-459763243](https://www.linkedin.com/in/yasaman-abedi-459763243)
 - ✉️ **Email:** Yasaman471@gmail.com
 - 📱 **Telegram:** https://t.me/Yasaman471
 ---
